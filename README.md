@@ -7,3 +7,5 @@ This is a sync test!
 
 This is my client sync test!
 
+There were some changes that were made,
+don't worry it will be okay.
